@@ -1,7 +1,5 @@
 # Cohort-volunteer-generator
-============================
 README
-============================
 
 This application has been designed to generate random "volunteers" during lecture.
 
